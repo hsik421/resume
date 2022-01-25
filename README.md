@@ -15,6 +15,7 @@
   firebase
   android arcitecture component
   lottie
+  ExoPlayer
 개발기간 : 3달
 개발인원 : 1명
 ```
@@ -29,6 +30,7 @@
   room
   firebase
   android arcitecture component
+  ExoPlayer
 개발기간 : 2달
 개발인원 : 1명
 ```
@@ -43,6 +45,7 @@
   room
   firebase
   android arcitecture component
+  ExoPlayer
 개발기간 : 19.06.17 ~ 19.09.30
 개발인원 : 1명
 ```
@@ -54,6 +57,7 @@
   Rxjava
   retrofit2
   firebase
+  MediaPlayer
 개발기간 : 2달
 개발인원 : 1명
 ```
