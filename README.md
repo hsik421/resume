@@ -80,6 +80,7 @@
 ### 2015년 7월 - 2016년 6월 · 1년
 ### 2.1 Abpet(반려동물종합 어플)
 ```
+개발언어 : Java
 개발기간 : 4달
 개발인원 : 1명
 ```
@@ -89,10 +90,12 @@
 ### 2014년 2월 - 2015년 2월 · 1년 1개월
 ### 3.1 Samsung 2015 Annual UX Theme Concept Design App (Google Material design을 타겟)
 ```
+개발언어 : Java
 개발인원 : SI사업부 팀과제
 ```
 ### 3.2 [**삼성 스마트 복합기**](https://www.samsung.com/sec/support/model/SL-X7600GX/)
 ```
+개발언어 : Java
 개발기간 : 2년~3년 중에 본인은 마지막 10개월 투입
 개발인원 : 20명
 ```
