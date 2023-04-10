@@ -2,7 +2,7 @@
 # 안드로이드 개발
 
 ## 1. Hackers Education Group · 정규직 
-### 2016년 11월 - 현재
+### 2016년 11월 - 2022년 11월
 ### 1.1 [**해커스 토익기출보카**](https://play.google.com/store/apps/details?id=com.hackers.app.toeicvoca)
 ```
 사용언어 : Kotlin
