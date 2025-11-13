@@ -140,7 +140,7 @@ flowchart LR
 ```
 ### fragment 구성
 <picture>
-  <img alt="project ui layer" src="./screenshot/view_navigation.png">
+  <img alt="project ui layer" src="./screenshot/git/view_navigation.png">
 </picture>
 
 ## Socket 통신
