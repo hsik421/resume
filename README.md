@@ -11,7 +11,7 @@
 ## 기술스택
 + Kotlin/Java
 
-## 아키텍처
+## FLOW
 ```mermaid
 flowchart LR
     A[RunStep]
