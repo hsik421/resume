@@ -140,7 +140,7 @@ flowchart LR
 ```
 ### fragment 구성
 <picture>
-  <img alt="project ui layer" src="./screenshot/git/view_navigation.png">
+  <img alt="project ui layer" src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/git/view_navigation.png">
 </picture>
 
 ## Socket 통신
@@ -270,7 +270,7 @@ Cloud / 블랙 박스 / SD Card / Local 저장소 파일 입출력
 MPAndroidChart 사용 하여 일/주/월/연 단위로 데이터 취합 및 Graph 적용
 
 #### screenshot
-<img src="./screenshot/앤씨앤/app.png" width="216" height="384"><img src="./screenshot/앤씨앤/filelist.png" width="216" height="384"><img src="./screenshot/앤씨앤/history.png" width="216" height="384">
+<img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/앤씨앤/app.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/앤씨앤/filelist.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/앤씨앤/history.png" width="216" height="384">
 
 
 ***
@@ -300,7 +300,7 @@ MPAndroidChart 사용 하여 일/주/월/연 단위로 데이터 취합 및 Grap
 #### 개발인원 : 1명
 
 #### screenshot
-<img src="./screenshot/기출보카/1.png" width="216" height="384"><img src="./screenshot/기출보카/2.png" width="216" height="384"><img src="./screenshot/기출보카/3.png" width="216" height="384"><img src="./screenshot/기출보카/4.png" width="216" height="384"><img src="./screenshot/기출보카/5.png" width="216" height="384"><img src="./screenshot/기출보카/6.png" width="216" height="384"><img src="./screenshot/기출보카/7.png" width="216" height="384"><img src="./screenshot/기출보카/8.png" width="216" height="384"><img src="./screenshot/기출보카/9.png" width="216" height="384">
+<img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/기출보카/1.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/기출보카/2.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/기출보카/3.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/기출보카/4.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/기출보카/5.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/기출보카/6.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/기출보카/7.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/기출보카/8.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/기출보카/9.png" width="216" height="384">
 
 
 ***
@@ -322,7 +322,7 @@ MPAndroidChart 사용 하여 일/주/월/연 단위로 데이터 취합 및 Grap
 #### 개발인원 : 1명
 
 #### screenshot
-<img src="./screenshot/그림보카/1.png" width="216" height="384"><img src="./screenshot/그림보카/2.png" width="216" height="384"><img src="./screenshot/그림보카/3.png" width="216" height="384"><img src="./screenshot/그림보카/4.png" width="216" height="384"><img src="./screenshot/그림보카/5.png" width="216" height="384"><img src="./screenshot/그림보카/6.png" width="216" height="384">
+<img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/그림보카/1.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/그림보카/2.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/그림보카/3.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/그림보카/4.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/그림보카/5.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/그림보카/6.png" width="216" height="384">
 
 ***
 
@@ -344,7 +344,7 @@ MPAndroidChart 사용 하여 일/주/월/연 단위로 데이터 취합 및 Grap
 #### 개발인원 : 1명
 
 #### screenshot
-<img src="./screenshot/mp3/1.jpg" width="216" height="384"><img src="./screenshot/mp3/2.jpg" width="216" height="384"><img src="./screenshot/mp3/3.jpg" width="216" height="384"><img src="./screenshot/mp3/4.jpg" width="216" height="384">
+<img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/mp3/1.jpg" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/mp3/2.jpg" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/mp3/3.jpg" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/mp3/4.jpg" width="216" height="384">
 
 
 ***
@@ -365,7 +365,7 @@ MPAndroidChart 사용 하여 일/주/월/연 단위로 데이터 취합 및 Grap
 #### 개발인원 : 1명
 
 #### screenshot
-<img src="./screenshot/빅플/빅플1.png" width="216" height="384"><img src="./screenshot/빅플/빅플2.png" width="216" height="384"><img src="./screenshot/빅플/빅플3.png" width="216" height="384"><img src="./screenshot/빅플/빅플4.png" width="216" height="384"><img src="./screenshot/빅플/빅플5.png" width="216" height="384">
+<img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/빅플/빅플1.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/빅플/빅플2.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/빅플/빅플3.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/빅플/빅플4.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/빅플/빅플5.png" width="216" height="384">
 
 ***
 
@@ -417,7 +417,7 @@ MPAndroidChart 사용 하여 일/주/월/연 단위로 데이터 취합 및 Grap
 #### 개발인원 : 8명
 
 #### screenshot
-<img src="./screenshot/theme/1.png" width="216" height="384"><img src="./screenshot/theme/2.png" width="216" height="384"><img src="./screenshot/theme/3.png" width="216" height="384"><img src="./screenshot/theme/4.png" width="216" height="384"><img src="./screenshot/theme/5.png" width="216" height="384"><img src="./screenshot/theme/6.png" width="216" height="384">
+<img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/theme/1.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/theme/2.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/theme/3.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/theme/4.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/theme/5.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/theme/6.png" width="216" height="384">
 
 ***
 
@@ -431,4 +431,4 @@ MPAndroidChart 사용 하여 일/주/월/연 단위로 데이터 취합 및 Grap
 
 
 #### screenshot
-<img src="./screenshot/복합기/1.png" width="216" height="384"><img src="./screenshot/복합기/2.png" width="216" height="384"><img src="./screenshot/복합기/3.png" width="216" height="384">
+<img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/복합기/1.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/복합기/2.png" width="216" height="384"><img src="https://raw.githubusercontent.com/hsik421/resume/refs/heads/main/screenshot/복합기/3.png" width="216" height="384">
